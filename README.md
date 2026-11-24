@@ -385,7 +385,7 @@ Screenshots of the main system modules will be included here.
 
 | Module | Screenshot |
 |---|---|
-| Login Page | ![Login Page](localhost_hospital_resource_system_hospital_resource_system_auth_login.php.png) |
+| Login Page | ![Login Page](./localhost_hospital_resource_system_hospital_resource_system_auth_login.php_.png) |
 | Admin Dashboard | ![Admin Dashboard](localhost_hospital_resource_system_hospital_resource_system_admin_dashboard.php.png) |
 | Blood Inventory | ![Blood Inventory](localhost_hospital_resource_system_hospital_resource_system_admin_blood_stock.php.png) |
 | Oxygen Inventory | ![Oxygen Inventory](localhost_hospital_resource_system_hospital_resource_system_admin_oxygen_stock.php.png) |
