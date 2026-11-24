@@ -381,22 +381,17 @@ hospital_resource_system/
 
 Screenshots of the main system modules will be included here.
 
-| Module                | Description |
-|-----------------------|-------------|
-| Login Page            | User authentication and secure system access. |
-| Admin Dashboard       | Overview of hospital resources, stock summaries, charts and notifications. |
-| Blood Inventory       | Blood stock management, including blood groups, components, quantities and expiry dates. |
-| Oxygen Inventory      | Oxygen cylinder inventory management and availability monitoring. |
-| Emergency Requests    | Management of internal resource requests, priorities and approval statuses. |
-| Hospital Availability | Displays blood and oxygen availability across partner hospitals and allows staff to send resource requests. |
-| Reports and Analytics | Generates resource summaries, blood stock reports, oxygen reports and activity reports. |
-<!-- Add your screenshots here after uploading them to the repository. -->
 
-Example:
 
-```markdown
-![Admin Dashboard](assets/images/admin-dashboard.png)
-```
+| Module | Screenshot |
+|---|---|
+| Login Page | ![Login Page](localhost_hospital_resource_system_hospital_resource_system_auth_login.php.png) |
+| Admin Dashboard | ![Admin Dashboard](localhost_hospital_resource_system_hospital_resource_system_admin_dashboard.php.png) |
+| Blood Inventory | ![Blood Inventory](localhost_hospital_resource_system_hospital_resource_system_admin_blood_stock.php.png) |
+| Oxygen Inventory | ![Oxygen Inventory](localhost_hospital_resource_system_hospital_resource_system_admin_oxygen_stock.php.png) |
+| Hospital Availability | ![Hospital Availability](localhost_hospital_resource_system_hospital_resource_system_admin_other_hospital_availability.php.png) |
+| Reports and Analytics | ![Reports and Analytics](localhost_hospital_resource_system_hospital_resource_system_admin_reports.php.png) |
+
 
 ---
 
