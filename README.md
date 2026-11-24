@@ -381,16 +381,15 @@ hospital_resource_system/
 
 Screenshots of the main system modules will be included here.
 
-| Module                   | Description                           |
-|--------------------------|---------------------------------------|
-| Login Page               | User authentication                   |
-| Admin Dashboard          | Overview of hospital resources        |
-| Blood Inventory          | Blood stock management                |
-| Oxygen Inventory         | Oxygen cylinder management            |
-| Emergency Requests       | Internal resource request management |
-| Inter-Hospital Transfers | Resource transfer coordination       |
-| Reports and Analytics    | Inventory and activity reporting      |
-
+| Module                | Description |
+|-----------------------|-------------|
+| Login Page            | User authentication and secure system access. |
+| Admin Dashboard       | Overview of hospital resources, stock summaries, charts and notifications. |
+| Blood Inventory       | Blood stock management, including blood groups, components, quantities and expiry dates. |
+| Oxygen Inventory      | Oxygen cylinder inventory management and availability monitoring. |
+| Emergency Requests    | Management of internal resource requests, priorities and approval statuses. |
+| Hospital Availability | Displays blood and oxygen availability across partner hospitals and allows staff to send resource requests. |
+| Reports and Analytics | Generates resource summaries, blood stock reports, oxygen reports and activity reports. |
 <!-- Add your screenshots here after uploading them to the repository. -->
 
 Example:
